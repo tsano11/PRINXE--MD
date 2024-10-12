@@ -9,7 +9,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668xxx;❣️Prince"
+      "value": "263773219130"
       },
      "MODE": {
       "description": "mode public or private",
@@ -29,7 +29,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
@@ -64,12 +64,12 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "🎡𝗣𝗥𝗜𝗡𝗫𝗘-𝗠𝗗🎡"
+      "value": "🎡DANTINA_WABOT🎡"
       },
     "PACK_NAME": {
       "description": "Put your stickers pack name",
       "required": false,
-      "value": "Prince🎗️❣️"
+      "value": "DANTINA_WABOT"
       },
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
